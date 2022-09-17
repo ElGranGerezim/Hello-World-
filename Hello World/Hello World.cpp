@@ -1,4 +1,4 @@
-// Hello World.cpp : This file contains the 'main' function. Program execution begins and ends there.
+﻿// Hello World.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -20,3 +20,7 @@ int main()
 
     return 1;
 }
+
+// Template
+// Holds an empty cout statement with the correct width and a newline at the end
+// cout << "                            \n";
