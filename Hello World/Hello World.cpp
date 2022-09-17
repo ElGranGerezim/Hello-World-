@@ -2,8 +2,13 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "H  H  EEEE  L     L     OOOO\n";
+    cout << "H  H  E     L     L     O  O\n";
+    cout << "HHHH  EEE   L     L     O  O\n";
+    cout << "H  H  E     L     L     O  O\n";
+    cout << "H  H  EEEE  LLLL  LLLL  OOOO\n";
 }
